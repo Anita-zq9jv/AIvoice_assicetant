@@ -1,2 +1,4 @@
-gradio>=4.20.0
-requests>=2.31.0
+gradio>=4.0.0
+openai-whisper
+gtts
+requests
