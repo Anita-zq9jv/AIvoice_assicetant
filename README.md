@@ -1,5 +1,5 @@
 # AI-voice-assistant
-这是一个实时语义交互助手的demo,可以用于陪伴
+这是一个实时语义交互助手的demo,可以用于情感陪伴类的产品等。
 需要以下的准备：
 # 1、一个Gradio账号，用于交互界面的设计
 # 2、一个 ModelScope账号及一个API Key
